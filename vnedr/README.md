@@ -476,7 +476,7 @@ POST — это последовательность коротких подпр
 |:----------|:-----:|-----------:|:------:|:-----------------------|
 | Cpu Temp | - | - | 0 | ✅ No errors |
 | Cpu Coverage | 4 | 8,423 Trilluon | 0 | ✅ No errors |
-| Ram | 3 | 36,409 | 0 | ✅ No errors |
+| Ram | 3 | 36,365  | 0 | ✅ No errors |
 | 2D | 117 | 7,801 | 0 | ✅ No errors |
 | 3D | 0 | 11,069 | 0 | ✅ No errors |
-| localDisk | 29 | 103,015 | 0 | ✅ No errors |
+| localDisk | 29 | 109 Billion | 0 | ✅ No errors |
