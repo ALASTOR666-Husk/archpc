@@ -3,4 +3,4 @@
 ## [ПАРА 3](/archpc/vnedr/KONSP/para3.md)
 ## [ЛАБАРАТОРНАЯ 1](/archpc/vnedr/LABA/lab1.md)
 ## [ЛАБАРАТОРНАЯ 2](/archpc/vnedr/LABA/lab2.md)
-## [ЛАБАРАТОРНАЯ 3](/archpc/vnedr/LABA/lab3.md)
+## [ЛАБАРАТОРНАЯ 3](/lab3.md)
