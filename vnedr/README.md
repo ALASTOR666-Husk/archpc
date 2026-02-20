@@ -475,7 +475,7 @@ POST — это последовательность коротких подпр
 | Test Name | Cycle | Operations | Errors | Last Error Description |
 |:----------|:-----:|-----------:|:------:|:-----------------------|
 | Cpu Temp | - | - | 0 | ✅ No errors |
-| Cpu Coverage | 4 | 8,423 | 0 | ✅ No errors |
+| Cpu Coverage | 4 | 8,423 Trilluon | 0 | ✅ No errors |
 | Ram | 3 | 36,409 | 0 | ✅ No errors |
 | 2D | 117 | 7,801 | 0 | ✅ No errors |
 | 3D | 0 | 11,069 | 0 | ✅ No errors |
