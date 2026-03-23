@@ -112,7 +112,7 @@
 | SHA-1 Hash | 4769 MB/s | 2287 MB/s |
 | Single-Precision Julia | 17 FPS | 55.0 FPS |
 | Double-Precision Mandel | Not Supported | 35.0 FPS |
-**B. Проверка стабильности (Stability Test)**
+
 *   Установите длительность теста: **10 минут**.
 *   Нажмите `Start`.
 *   После завершения перейдите во вкладку `Statistics`.
