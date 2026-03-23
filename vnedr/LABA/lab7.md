@@ -98,10 +98,20 @@
 *   Нажмите `Start Benchmark`.
 *   Внесите данные о температуре и напряжении в таблицу:
 
-| Параметр | GPU | CPU |
+| Тест | GPU | x64 CPU |
 | :--- | :--- | :--- |
-| | | |
-
+| Memory Read | 4335 MB/s | 9768 MB/s |
+| Memory Write | 2889 MB/s | 9347 MB/s |
+| Memory Copy | 10876 MB/s | 8567 MB/s |
+| Single-Precision FLOPS | 37.6 GFLOPS | 173.2 GFLOPS |
+| Double-Precision FLOPS | Not Supported | 83.9 GFLOPS |
+| 24-bit Integer IOPS | 21.7 GIOPS | 87.1 GIOPS |
+| 32-bit Integer IOPS | 12.8 GIOPS | 86 GIOPS |
+| 64-bit Integer IOPS | 2.3 GIOPS | 20.5 GIOPS |
+| AES-256 | 285 MB/s | 9654 MB/s |
+| SHA-1 Hash | 4769 MB/s | 2287 MB/s |
+| Single-Precision Julia | 17 FPS | 55.0 FPS |
+| Double-Precision Mandel | Not Supported | 35.0 FPS |
 **B. Проверка стабильности (Stability Test)**
 *   Установите длительность теста: **10 минут**.
 *   Нажмите `Start`.
