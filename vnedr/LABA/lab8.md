@@ -33,7 +33,7 @@
 | :--- | :--- | :--- | :--- |
 | PassMark Rating | 505 | 2455 | 10793 |
 | CPU Mark | 2269 | 6124 | 38528 |
-| Disk Mark | 708 || — |
+| Disk Mark | 708 | 1569 | 29678 |
 | 2D Graphics Mark | 305 | 588 | 1823 |
 | 3D Graphics Mark | 64 | 2969 | 24533 |
 ---
