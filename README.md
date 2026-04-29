@@ -5,4 +5,3 @@
 
 https://gitflic.ru/project/mathros/mfua
 
-https://gitflic.ru/project/rurewa/mfua/blob?file=content/DevOps/README.md&branch=master&mode=markdown
