@@ -13,3 +13,5 @@
 ## [ЛАБАРАТОРНАЯ 8](./LABA/lab8.md)
 ## [ЛАБАРАТОРНАЯ 9](./LABA/lab9.md)
 ## [ЛАБАРАТОРНАЯ 10](./LABA/lab10.md)
+
+https://smfua-my.sharepoint.com/:w:/g/personal/29442234_s_mfui_ru/IQDjQvALCYK_SIeT4Z7dbp3DAemhPDYg-dgnVml_xZ1Ol5Y?e=DWyzLP
